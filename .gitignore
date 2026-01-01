@@ -1,0 +1,30 @@
+# ---- build artefacts -------------------------------------------------------
+build/
+dist/
+*.egg-info/
+*.so
+*.o
+*.pyc
+__pycache__/
+.eggs/
+
+# ---- data and weights (never commit; see README.md) ------------------------
+data/*
+!data/README.md
+ckpts/*
+!ckpts/README.md
+*.pth
+*.pkl
+*.npz
+
+# ---- training outputs ------------------------------------------------------
+runs/
+work_dirs/
+wandb/
+*.log
+*.log.json
+
+# ---- editors / OS ----------------------------------------------------------
+.vscode/
+.idea/
+.DS_Store
