@@ -1,14 +1,12 @@
 # RoadAnchOR: Road-Adaptive Query Anchoring for End-to-End Autonomous Driving
 
 <p align="center">
-  <a href="https://qqqwwweee213313.github.io/RoadAnchOR/"><img src="docs/assets/roadanchor.png" width="480" alt="RoadAnchOR logo"></a>
+  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/"><img src="docs/assets/roadanchor.png" width="480" alt="RoadAnchOR logo"></a>
 </p>
 
 <p align="center"><strong>Anonymous Authors</strong></p>
 <p align="center">
-  <a href="https://qqqwwweee213313.github.io/RoadAnchOR/"><img src="docs/assets/project-page-badge.svg" alt="Project Page" width="142" height="28"></a> ·
-  <a href="https://qqqwwweee213313.github.io/RoadAnchOR/#qualitative-videos"><strong>Qualitative Videos ↗</strong></a> ·
-  <a href="docs/TRAINING.md"><strong>Training Guide</strong></a>
+  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/"><img src="docs/assets/project-page-badge.svg" alt="Project Page" height="30"></a>
 </p>
 
 ## Abstract
@@ -33,13 +31,13 @@ RAC is a training loss. The qualitative videos show RoadAnchOR driving scenarios
 
 ## Code release
 
-This release contains the RoadAnchOR model, its training configuration, the vendored perception library, and training utilities for Bench2Drive. Dataset files, pretrained weights, a closed-loop driving agent, and an evaluation harness are not included. The videos can be viewed directly on the [project page](https://qqqwwweee213313.github.io/RoadAnchOR/#qualitative-videos).
+This release contains the RoadAnchOR model, its training configuration, the vendored perception library, and training utilities for Bench2Drive. Dataset files, pretrained weights, a closed-loop driving agent, and an evaluation harness are not included. The videos can be viewed directly on the [project page](https://qqqwwweee213313.github.io/RoadAnchOR-Project/#qualitative-videos).
 
 ## Getting started
 
 ```bash
-git clone https://github.com/qqqwwweee213313/RoadAnchOR-Code.git
-cd RoadAnchOR-Code
+git clone https://github.com/qqqwwweee213313/RoadAnchOR.git
+cd RoadAnchOR
 ```
 
 Follow the [training guide](docs/TRAINING.md) for installation, dataset preparation, pretrained perception weights, and single- or multi-GPU training. Build the CUDA extensions locally before running the configuration check:

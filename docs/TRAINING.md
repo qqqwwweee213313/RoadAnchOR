@@ -1,6 +1,6 @@
 # Training RoadAnchOR
 
-[← Repository overview](../README.md) · [Project Page](https://qqqwwweee213313.github.io/RoadAnchOR/)
+[← Repository overview](../README.md) · [Project Page](https://qqqwwweee213313.github.io/RoadAnchOR-Project/)
 
 Run the following commands from the repository root after cloning.
 
