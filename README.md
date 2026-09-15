@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Anonymous Authors</strong></p>
 <p align="center">
-  <a href="https://qqqwwweee213313.github.io/RoadAnchOR/"><strong>Project Page ↗</strong></a> ·
+  <a href="https://qqqwwweee213313.github.io/RoadAnchOR/"><img src="docs/assets/project-page-badge.svg" alt="Project Page" width="142" height="28"></a> ·
   <a href="https://qqqwwweee213313.github.io/RoadAnchOR/#qualitative-videos"><strong>Qualitative Videos ↗</strong></a> ·
   <a href="docs/TRAINING.md"><strong>Training Guide</strong></a>
 </p>
