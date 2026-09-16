@@ -1,12 +1,12 @@
 # RoadAnchOR: Road-Adaptive Query Anchoring for End-to-End Autonomous Driving
 
 <p align="center">
-  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/"><img src="docs/assets/roadanchor.png" width="480" alt="RoadAnchOR logo"></a>
+  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/?v=6fa7d6d"><img src="docs/assets/roadanchor.png" width="480" alt="RoadAnchOR logo"></a>
 </p>
 
 <p align="center"><strong>Anonymous Authors</strong></p>
 <p align="center">
-  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/"><img src="docs/assets/project-page-badge.svg" alt="Project Page" height="30"></a>
+  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/?v=6fa7d6d"><img src="docs/assets/project-page-badge.svg" alt="Project Page" height="30"></a>
 </p>
 
 ## Abstract
