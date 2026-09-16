@@ -1,12 +1,12 @@
 # RoadAnchOR: Road-Adaptive Query Anchoring for End-to-End Autonomous Driving
 
 <p align="center">
-  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/?v=6fa7d6d"><img src="docs/assets/roadanchor.png" width="480" alt="RoadAnchOR logo"></a>
+  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/?v=2622053"><img src="docs/assets/roadanchor.png" width="480" alt="RoadAnchOR logo"></a>
 </p>
 
 <p align="center"><strong>Anonymous Authors</strong></p>
 <p align="center">
-  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/?v=6fa7d6d"><img src="docs/assets/project-page-badge.svg" alt="Project Page" height="30"></a>
+  <a href="https://qqqwwweee213313.github.io/RoadAnchOR-Project/?v=2622053"><img src="docs/assets/project-page-badge.svg" alt="Project Page" height="30"></a>
 </p>
 
 ## Abstract
@@ -80,3 +80,5 @@ copyright headers that the upstream projects ship with them.
 | [detectron2](https://github.com/facebookresearch/detectron2), [torchmetrics](https://github.com/Lightning-AI/torchmetrics), [Deformable-DETR](https://github.com/fundamentalvision/Deformable-DETR) | utility code inside `mmcv/` |
 
 Please cite the upstream works alongside this one.
+
+<p><sub><strong>Acknowledgement.</strong> The RoadAnchOR logo was created using GPT-6.</sub></p>
